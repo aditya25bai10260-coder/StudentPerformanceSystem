@@ -144,10 +144,4 @@ A basic test program is included in:
 
 It checks basic student information and verifies that the Student Manager can successfully store and find a student.
 
-## How to Run
-
-First, compile the Java files:
-
-```bash
-javac src/*.java
 
