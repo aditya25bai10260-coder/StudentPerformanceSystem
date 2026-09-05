@@ -84,3 +84,38 @@ The system can also generate a complete performance report for a selected studen
 The Student Performance Management System provides a simple and organized way to manage student academic records. The project helped in applying Java and Object-Oriented Programming concepts to a practical problem.
 
 The system can be further improved by adding a graphical interface, database connectivity, login functionality, and graphical performance reports.
+##SCREENSHOTS OF PROGRAMS
+
+![
+    
+
+    
+](<Screenshot 2026-09-05 191500.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191451.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191351.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191323.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191305.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191237.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191114.png>) ![
+    
+
+    
+](<Screenshot 2026-09-05 191012.png>)
