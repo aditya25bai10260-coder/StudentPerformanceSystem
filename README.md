@@ -86,10 +86,8 @@ Student details, marks, and attendance records are stored in text files inside t
 
 ## Technologies Used
 
-- Java
-- Visual Studio Code
+- Java Stack
 - Git
-- GitHub
 - Text file storage
 
 ## How the System Works
@@ -144,4 +142,8 @@ A basic test program is included in:
 
 It checks basic student information and verifies that the Student Manager can successfully store and find a student.
 
+##Author:-
 
+Aditya Das
+
+---
