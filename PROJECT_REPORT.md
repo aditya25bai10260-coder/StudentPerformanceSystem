@@ -84,38 +84,50 @@ The system can also generate a complete performance report for a selected studen
 The Student Performance Management System provides a simple and organized way to manage student academic records. The project helped in applying Java and Object-Oriented Programming concepts to a practical problem.
 
 The system can be further improved by adding a graphical interface, database connectivity, login functionality, and graphical performance reports.
+
+
 ##SCREENSHOTS OF PROGRAMS
 
-![
+
+
+
+    <img width="245" height="281" alt="Screenshot 2026-09-05 192900" src="https://github.com/user-attachments/assets/8f01ff03-641d-4ca1-b65d-caeb7ce1acc9" />
+
+
+    
+<img width="292" height="240" alt="Screenshot 2026-09-05 191500" src="https://github.com/user-attachments/assets/728f3004-8544-4392-8e18-6fca484c135a" />
+
     
 
     
-](<Screenshot 2026-09-05 191500.png>) ![
+<img width="275" height="231" alt="Screenshot 2026-09-05 191451" src="https://github.com/user-attachments/assets/fba24353-f20b-41f6-803a-bc33cc4611c4" />
+
     
 
     
-](<Screenshot 2026-09-05 191451.png>) ![
+<img width="248" height="371" alt="Screenshot 2026-09-05 191351" src="https://github.com/user-attachments/assets/cc3778e4-7deb-49eb-9a2b-bd6b8379a6d4" />
+
     
 
     
-](<Screenshot 2026-09-05 191351.png>) ![
+<img width="263" height="131" alt="Screenshot 2026-09-05 191323" src="https://github.com/user-attachments/assets/e41b79be-491c-4c68-9d33-19d506993a44" />
+
     
 
     
-](<Screenshot 2026-09-05 191323.png>) ![
+<img width="210" height="91" alt="Screenshot 2026-09-05 191305" src="https://github.com/user-attachments/assets/31169a8e-ab5e-41de-abcd-d25ad0a0e9b5" />
+
     
 
     
-](<Screenshot 2026-09-05 191305.png>) ![
+<img width="238" height="113" alt="Screenshot 2026-09-05 191237" src="https://github.com/user-attachments/assets/2cc6f254-b7ca-4458-9f37-d2c4cafec534" />
+
     
 
     
-](<Screenshot 2026-09-05 191237.png>) ![
+<img width="187" height="94" alt="Screenshot 2026-09-05 191114" src="https://github.com/user-attachments/assets/eba1b322-3afa-433a-a299-7f1ecbcd5a91" />
+
     
 
     
-](<Screenshot 2026-09-05 191114.png>) ![
-    
-
-    
-](<Screenshot 2026-09-05 191012.png>)
+<img width="331" height="341" alt="Screenshot 2026-09-05 191012" src="https://github.com/user-attachments/assets/9d8e04f8-37dc-459f-8d5c-2b590224879a" />
